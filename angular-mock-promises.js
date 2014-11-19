@@ -38,6 +38,6 @@ angular.module('mockedPromises', []).factory('mockedPromises', function($q) {
 					deferred.reject(reason);
 				}
 			};
-		},
+		}
 	};
 });
