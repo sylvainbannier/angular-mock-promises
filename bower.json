@@ -1,0 +1,15 @@
+{
+  "name": "angular-mock-promises",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sylvainbannier/angular-mock-promises",
+  "authors": [
+    "Sylvain BANNIER <sylvain.bannier@smile.fr>"
+  ],
+  "description": "mock promises with angular and jasmine",
+  "main": "./angular-mock-promises.js",
+  "keywords": [
+    "angular",
+    "mock"
+  ],
+  "license": "MIT"
+}
